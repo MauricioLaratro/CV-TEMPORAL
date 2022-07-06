@@ -1,0 +1,21 @@
+.main-content{
+    margin-block-start: 40px;
+    display: inline-block;
+    position: absolute;
+    width: 90%;
+    height: auto;
+    text-align: center;
+    }
+
+    header{
+        display: inline-block;
+        color: #44444c;
+        position: static;
+        margin-block-start: 20px;
+        text-align: center;
+        width: 100%;
+        text-decoration-line: underline;
+    }
+    body{
+        background: black;
+    }
